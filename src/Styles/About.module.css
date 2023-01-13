@@ -1,0 +1,9 @@
+.bgc{
+    background-color:rgb(245, 250, 245);
+    color: coral;
+}
+.bgc div{
+    color: black;
+    background-color:rgb(245, 250, 245);
+    /* color: rgb(221, 232, 221); */
+ }

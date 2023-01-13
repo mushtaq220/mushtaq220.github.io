@@ -1,0 +1,8 @@
+.bgc{
+    background-color: rgba(255, 255, 255, 0.804);
+    color: coral;
+}
+.bgc div{
+   color: black;
+   background-color: white;
+}
