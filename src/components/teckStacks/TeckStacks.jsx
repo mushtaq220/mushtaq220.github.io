@@ -22,8 +22,7 @@ export const TeckStacks = () => {
     <Box
       className={styles.bgc}
       id="teckstacks"
-      w="100%"
-      // bg="#070640"
+      w="100%"     
       h="auto"
       zIndex={3}
     >

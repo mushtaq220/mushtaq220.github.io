@@ -8,13 +8,10 @@ export const NavOnOtherDevice = ({ activeNav, setActiveNav }) => {
       gap="30px"
       fontWeight="medium"
       fontSize={20}
-      // color="#ffffff"
-      // bg="#0c0b48"
     >
       <Hide below="md">
         <Link
           transition="0.2s"
-          // color={activeNav === "#about" ? "#fe3e57" : "#ffffff"}
           _hover={{
             transition: "0.2s",
             color: "#fe3e57",
@@ -28,7 +25,6 @@ export const NavOnOtherDevice = ({ activeNav, setActiveNav }) => {
         </Link>
         <Link
           transition="0.2s"
-          // color={activeNav === "#teckstacks" ? "#fe3e57" : "#ffffff"}
           _hover={{
             transition: "0.2s",
             color: "#fe3e57",
@@ -41,8 +37,7 @@ export const NavOnOtherDevice = ({ activeNav, setActiveNav }) => {
           Teck Stacks
         </Link>
         <Link
-          transition="0.2s"
-          // color={activeNav === "#projects" ? "#fe3e57" : "#ffffff"}
+          transition="0.2s"      
           _hover={{
             transition: "0.2s",
             color: "#fe3e57",
@@ -55,8 +50,7 @@ export const NavOnOtherDevice = ({ activeNav, setActiveNav }) => {
           Projects
         </Link>
         <Link
-          transition="0.2s"
-          // color={activeNav === "#contact" ? "#fe3e57" : "#ffffff"}
+          transition="0.2s"         
           _hover={{
             transition: "0.2s",
             color: "#fe3e57",

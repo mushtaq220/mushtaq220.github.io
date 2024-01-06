@@ -8,6 +8,7 @@ export const Logo = ({ activeNav, setActiveNav }) => {
       onClick={() => setActiveNav("#home")}
       _hover={{ textDecoration: "none" }}
     >
+      
       <Box fontSize={25} fontWeight="bold" color="#fe3e57" bg="#0c0b48">
         Mushtaq
       </Box>

@@ -7,8 +7,7 @@ export const Projects = () => {
     <Box
       id="projects"
       w="100%"
-      h="auto"
-      // bg="#0c0b48"
+      h="auto"    
       bg={"rgb(245, 250, 245)"}
       zIndex={3}
     >

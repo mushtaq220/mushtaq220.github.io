@@ -25,7 +25,6 @@ export const NavOnSmallDevice = ({ activeNav, setActiveNav }) => {
     <Show below="md">
       <Icon
         boxSize="2rem"
-        // color="#ffffff"
         color={"black"}
         as={FiMenu}
         onClick={onOpen}
@@ -34,23 +33,18 @@ export const NavOnSmallDevice = ({ activeNav, setActiveNav }) => {
         <DrawerOverlay />
         <DrawerContent>
           <DrawerCloseButton
-            // color="#ffffff"
             color={"black"}
-          
           />
           <DrawerBody
             fontWeight="medium"
             fontSize={20}
-            // color="#ffffff"
-            // bg="#0c0b48"
-           bg="rgb(245, 250, 245)"
+            bg="rgb(245, 250, 245)"
            
           >
             <Link
               transition="0.2s"
               display="block"
-              mt="30px"
-              // color={activeNav === "#about" ? "#fe3e57" : "#ffffff"}
+              mt="30px"            
               _hover={{
                 transition: "0.2s",
                 color: "#fe3e57",
@@ -65,8 +59,7 @@ export const NavOnSmallDevice = ({ activeNav, setActiveNav }) => {
             <Link
               display="block"
               transition="0.2s"
-              mt="30px"
-              // color={activeNav === "#teckstacks" ? "#fe3e57" : "#ffffff"}
+              mt="30px"    
               _hover={{
                 transition: "0.2s",
                 color: "#fe3e57",
@@ -81,8 +74,7 @@ export const NavOnSmallDevice = ({ activeNav, setActiveNav }) => {
             <Link
               display="block"
               transition="0.2s"
-              mt="30px"
-              // color={activeNav === "#projects" ? "#fe3e57" : "#ffffff"}
+              mt="30px"           
               _hover={{
                 transition: "0.2s",
                 color: "#fe3e57",
@@ -97,8 +89,7 @@ export const NavOnSmallDevice = ({ activeNav, setActiveNav }) => {
             <Link
               display="block"
               transition="0.2s"
-              mt="30px"
-              // color={activeNav === "#contact" ? "#fe3e57" : "#ffffff"}
+              mt="30px"            
               _hover={{
                 transition: "0.2s",
                 color: "#fe3e57",

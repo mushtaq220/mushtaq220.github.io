@@ -3,8 +3,7 @@ import { BsHeartFill } from "react-icons/bs";
 
 export const Footer = () => {
   return (
-    <Box w="100%"
-      // bg="#0c0b48"
+    <Box w="100%"    
       bg={"rgb(245, 250, 245)"}
       h="auto"
       zIndex={3}
@@ -17,8 +16,7 @@ export const Footer = () => {
         alignItems="center"
         justifyContent="center"
         gap="10px"
-        color="black"
-        // color="#ffffff"
+        color="black"     
       >
         <Text>This is bulid by me with</Text>
         <BsHeartFill />

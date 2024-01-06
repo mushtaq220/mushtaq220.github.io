@@ -6,13 +6,10 @@ export const ProjectCard = ({ item }) => {
       w="100%"
       borderRadius="1rem"
       overflow="hidden"
-      mt="40px"
-      // bg="#070640"
-      // color="#ffffff"
+      mt="40px" 
       bg={"rgba(255, 255, 255, 0.804)"}
       color="black"
       direction={["column", "column", "column", "row"]}
-      // border="1px solid #fe3e57"
       border="1px solid darkgreen"
       _hover={{
         transform: "scale(1.1)",
@@ -45,8 +42,7 @@ export const ProjectCard = ({ item }) => {
             {item?.teckstack?.map((el, index) => {
               return (
                 <Flex
-                  key={index}
-                  // border="1px solid #fe3e57"
+                  key={index}               
                   border="1px solid "
                   rounded={"md"}
                   px="5px"

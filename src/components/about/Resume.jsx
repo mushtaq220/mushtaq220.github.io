@@ -12,7 +12,7 @@ export const Resume = () => {
       download
       style={{ textDecoration: "none" }}
     >
-      <Flex alignItems="center" gap="5px" >
+      <Flex alignItems="center" gap="5px">
         <Text>Resume</Text>
         <HiDownload />
       </Flex>

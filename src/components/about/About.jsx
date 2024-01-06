@@ -11,15 +11,12 @@ export const About = () => {
       id="about"
       w="100%"
       h="auto"
-      /* bg="#0c0b48" */
-     
       zIndex={3}
     >
       <Flex
         w="100%"
         maxWidth="1200px"
         m="auto"
-        // bg="#0c0b48"
         direction={["column-reverse", "column-reverse", "row", "row"]}
         py="30px"
       >
@@ -33,7 +30,6 @@ export const About = () => {
         >
           <AboutText />
           <Button
-            // bg="#0c0b48"
             bg={"rgb(245, 250, 245)"}
             border="1px solid #1B4F72"
             color="#ffffff"

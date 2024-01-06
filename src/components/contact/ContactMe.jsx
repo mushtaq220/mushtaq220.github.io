@@ -21,7 +21,6 @@ export const ContactMe = () => {
     <Flex
       gap={"5px"}
       mt="20px"
-      // color={"#ffffff"}
       color={"black"}
       fontSize={"20px"}
       justifyContent="center"

@@ -23,7 +23,6 @@ export const MyGithubCalender = () => {
     <Box
       w="100%"
       h="auto"
-      // bg="#070640"
       bg={"rgba(255, 255, 255, 0.804)"}
       zIndex={3}
     >
@@ -38,7 +37,6 @@ export const MyGithubCalender = () => {
           _hover={{
             transform: "scale(1.1)",
             transition: "1s",
-            // color: "#fe3e57",
             border: "1px solid #ffffff",
           }}
         >

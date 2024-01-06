@@ -22,7 +22,6 @@ export const Navbar = () => {
       id="home"
       w="100%"
       h="auto"
-      // bg="#0c0b48"
       zIndex={7}
       borderBottom={navbar ? "1px solid #1B4F72 " : "1px solid transparent"}
       position="sticky"

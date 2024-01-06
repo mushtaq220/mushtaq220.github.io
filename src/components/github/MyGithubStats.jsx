@@ -8,7 +8,6 @@ export const MyGithubStats = () => {
     <Box
       w="100%"
       h="auto"
-      // bg="#0c0b48"
       bg={"rgb(245, 250, 245)"}
       zIndex={3}
     >
