@@ -6,7 +6,12 @@ import StatsThree from "./stats_three.jpeg";
 export const MyGithubStats = () => {
   return (
     <Box
-      w="100%"
+      // w="100%"
+
+      w="80%"
+      m="auto"
+
+      
       h="auto"
       bg={"rgb(245, 250, 245)"}
       zIndex={3}

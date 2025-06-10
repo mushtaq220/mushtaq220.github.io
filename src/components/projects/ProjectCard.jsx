@@ -3,7 +3,10 @@ import { Box, Button, Flex, Image, Link, Text } from "@chakra-ui/react";
 export const ProjectCard = ({ item }) => {
   return (
     <Flex
-      w="100%"
+      // w="100%"
+      w="80%"
+      m="auto"
+      
       borderRadius="1rem"
       overflow="hidden"
       mt="40px" 
