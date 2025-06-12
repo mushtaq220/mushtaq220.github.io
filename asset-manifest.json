@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.4892de1b.css",
-    "main.js": "/my-portfolio/static/js/main.74cea860.js",
-    "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
-    "static/media/jcrew.png": "/my-portfolio/static/media/jcrew.eba0c82d51d0e42d9a9f.png",
-    "static/media/maxfashion.png": "/my-portfolio/static/media/maxfashion.f2efa2d0afa9907821d1.png",
-    "static/media/myfitnesspal.png": "/my-portfolio/static/media/myfitnesspal.5e8681a62647bd0ccfc0.png",
-    "static/media/monday.png": "/my-portfolio/static/media/monday.11eacf355b3ea7003462.png",
-    "static/media/profileImage.jpeg": "/my-portfolio/static/media/profileImage.8c9327950ed066161892.jpeg",
-    "static/media/stats_two.jpeg": "/my-portfolio/static/media/stats_two.5fa547ef2dcebb2a1e4d.jpeg",
-    "static/media/stats_three.jpeg": "/my-portfolio/static/media/stats_three.13ee3d6bae3303474ab4.jpeg",
-    "index.html": "/my-portfolio/index.html",
-    "main.4892de1b.css.map": "/my-portfolio/static/css/main.4892de1b.css.map",
-    "main.74cea860.js.map": "/my-portfolio/static/js/main.74cea860.js.map",
-    "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/mushtaq220.github.io/static/css/main.4892de1b.css",
+    "main.js": "/mushtaq220.github.io/static/js/main.8aedd3c3.js",
+    "static/js/787.128fc6e9.chunk.js": "/mushtaq220.github.io/static/js/787.128fc6e9.chunk.js",
+    "static/media/jcrew.png": "/mushtaq220.github.io/static/media/jcrew.eba0c82d51d0e42d9a9f.png",
+    "static/media/maxfashion.png": "/mushtaq220.github.io/static/media/maxfashion.f2efa2d0afa9907821d1.png",
+    "static/media/myfitnesspal.png": "/mushtaq220.github.io/static/media/myfitnesspal.5e8681a62647bd0ccfc0.png",
+    "static/media/monday.png": "/mushtaq220.github.io/static/media/monday.11eacf355b3ea7003462.png",
+    "static/media/profileImage.jpeg": "/mushtaq220.github.io/static/media/profileImage.8c9327950ed066161892.jpeg",
+    "static/media/stats_two.jpeg": "/mushtaq220.github.io/static/media/stats_two.5fa547ef2dcebb2a1e4d.jpeg",
+    "static/media/stats_three.jpeg": "/mushtaq220.github.io/static/media/stats_three.13ee3d6bae3303474ab4.jpeg",
+    "index.html": "/mushtaq220.github.io/index.html",
+    "main.4892de1b.css.map": "/mushtaq220.github.io/static/css/main.4892de1b.css.map",
+    "main.8aedd3c3.js.map": "/mushtaq220.github.io/static/js/main.8aedd3c3.js.map",
+    "787.128fc6e9.chunk.js.map": "/mushtaq220.github.io/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4892de1b.css",
-    "static/js/main.74cea860.js"
+    "static/js/main.8aedd3c3.js"
   ]
 }
