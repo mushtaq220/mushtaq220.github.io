@@ -1,22 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.4892de1b.css",
-    "main.js": "/static/js/main.7fac5ee7.js",
+    "main.js": "/static/js/main.21d639a1.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/jcrew.png": "/static/media/jcrew.eba0c82d51d0e42d9a9f.png",
     "static/media/maxfashion.png": "/static/media/maxfashion.f2efa2d0afa9907821d1.png",
     "static/media/myfitnesspal.png": "/static/media/myfitnesspal.5e8681a62647bd0ccfc0.png",
     "static/media/monday.png": "/static/media/monday.11eacf355b3ea7003462.png",
     "static/media/profileImage.jpeg": "/static/media/profileImage.8c9327950ed066161892.jpeg",
-    "static/media/stats_two.jpeg": "/static/media/stats_two.5fa547ef2dcebb2a1e4d.jpeg",
-    "static/media/stats_three.jpeg": "/static/media/stats_three.13ee3d6bae3303474ab4.jpeg",
     "index.html": "/index.html",
     "main.4892de1b.css.map": "/static/css/main.4892de1b.css.map",
-    "main.7fac5ee7.js.map": "/static/js/main.7fac5ee7.js.map",
+    "main.21d639a1.js.map": "/static/js/main.21d639a1.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4892de1b.css",
-    "static/js/main.7fac5ee7.js"
+    "static/js/main.21d639a1.js"
   ]
 }
