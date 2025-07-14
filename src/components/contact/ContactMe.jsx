@@ -13,7 +13,6 @@ export const ContactMe = () => {
     transition: "0.3s",
     cursor: "pointer",
     boxShadow: "md",
-    transition: "0.2s",
     fontSize: "40px",
   };
 

@@ -21,11 +21,8 @@ export const MyGithubCalender = () => {
 
   return (
     <Box
-      // w="100%"
-
       w="80%"
       m="auto"
-
       h="auto"
       bg={"rgba(255, 255, 255, 0.804)"}
       zIndex={3}
@@ -53,3 +50,14 @@ export const MyGithubCalender = () => {
     </Box>
   );
 };
+
+
+
+
+
+
+
+
+
+
+

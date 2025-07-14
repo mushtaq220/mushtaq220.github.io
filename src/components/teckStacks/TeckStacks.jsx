@@ -12,7 +12,6 @@ import {
   SiJavascript,
   SiRedux,
   SiChakraui,
-  SiCypress,
   SiExpress,
   SiMongodb,
 } from "react-icons/si";

@@ -1,17 +1,10 @@
 import React from "react";
 import { Box, Flex, Image, Text } from "@chakra-ui/react";
-import StatsOne from "./stats_one.jpeg";
-import StatsTwo from "./stats_two.jpeg";
-import StatsThree from "./stats_three.jpeg";
 export const MyGithubStats = () => {
   return (
     <Box
-      // w="100%"
-
       w="80%"
-      m="auto"
-
-      
+      m="auto"      
       h="auto"
       bg={"rgb(245, 250, 245)"}
       zIndex={3}
@@ -39,9 +32,8 @@ export const MyGithubStats = () => {
                 color: "#fe3e57",
                 border: "1px solid #ffffff",
               }}
-              w="100%"
-              src={StatsOne}
-              alt="mushtaqansari"
+              w="100%"  
+              src="https://github-readme-stats.vercel.app/api?username=mushtaq220&show_icons=true&theme=react" alt="GitHub Stats"
             /> 
           </Box>
           <Box minW={["200px", "300px", "300px", "300px"]} flex={1}>
@@ -53,8 +45,7 @@ export const MyGithubStats = () => {
                 border: "1px solid #ffffff",
               }}
               w="100%"
-              src={StatsTwo}
-              alt="mushtaqansari"
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushtaq220&layout=compact&theme=react" alt="Top Languages"
             />
           </Box>
           <Box minW={["200px", "300px", "300px", "300px"]} flex={1}>
@@ -66,8 +57,7 @@ export const MyGithubStats = () => {
                 border: "1px solid #ffffff",
               }}
               w="100%"
-              src={StatsThree}
-              alt="mushtaqansari"
+              src="https://github-readme-streak-stats.herokuapp.com/?user=mushtaq220&theme=react" alt="GitHub Streak"
             />
           </Box>
         </Flex>
